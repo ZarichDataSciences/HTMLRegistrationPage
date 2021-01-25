@@ -1,0 +1,12 @@
+.fieldWindow{
+    padding 19px: ;
+    background-color: rgb(164, 172, 180);
+    justify-content: center;
+    background-origin: padding-box;
+    border: crimson;
+
+
+}
+.body{
+    background-color: crimson;
+}
